@@ -3,6 +3,6 @@
 #Nota : Hacerlo con la función max(a,b) y luego con una comparación
 
 #INICIO
-Hola Ezequiel, Hola tony= tontos
+Hola Ezequiel
 
 #FIN
