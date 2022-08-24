@@ -24,7 +24,7 @@ print(lista)
 
 print("Lista impar ")
 print(lista_impar)
-#hoal
+
 
  
 #FIN
