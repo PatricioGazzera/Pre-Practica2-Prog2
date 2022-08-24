@@ -5,7 +5,15 @@
 
 
 #INICIO
-
-#Hola
-
+a = input()
+print ("ingrese un numero: ")
+numero = input()
+print ("ingrese otro numero: ")
+numero_2 = input()
+try:
+        a = numero / numero_2
+except ZeroDivisionError as exception:
+        print (f"ha ocurrido un error | {exception}")
+finally:
+        print ("finalizado")
 #FIN
