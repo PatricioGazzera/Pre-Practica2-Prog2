@@ -22,7 +22,7 @@ print(lista_completa)
 print("Lista par")
 print(lista)
 
-print("Lista impar")
+print("Lista impar ")
 print(lista_impar)
 
 
