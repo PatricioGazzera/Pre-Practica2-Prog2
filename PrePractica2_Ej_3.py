@@ -5,5 +5,8 @@
 
 
 #INICIO
+from ipaddress import _RawNetworkPart
 
+
+@_RawNetworkPart
 #FIN
