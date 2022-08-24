@@ -3,6 +3,16 @@
 #Nota : Hacerlo con la función max(a,b) y luego con una comparación
 
 #INICIO
-Hola Ezequiel
+print("Ingrese un numero")
+numero = input()
+
+print("Ingrese otro numero")
+numero2 = input()
+
+resultado = max(numero,numero2)
+
+print ("El maximo es: ",resultado)
+
+
 
 #FIN
